@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Eduardo\\Git\\Orientacão a objeto\\Orientacão a objeto.csproj",
-      "projectName": "Orientacão a objeto",
-      "projectPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\Orientacão a objeto.csproj",
+      "projectUniqueName": "C:\\Eduardo\\Git\\Orientacão a objeto\\Ex_Aula\\Ex_Aula.csproj",
+      "projectName": "Ex_Aula",
+      "projectPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\Ex_Aula\\Ex_Aula.csproj",
       "packagesPath": "C:\\Users\\TT - SMSA\\.nuget\\packages\\",
-      "outputPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\obj\\",
+      "outputPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\Ex_Aula\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
