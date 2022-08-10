@@ -13,3 +13,18 @@ C:\Eduardo\Git\Orientacão a objeto\Ex_Aula\obj\Debug\net6.0\refint\Ex_Aula.dll
 C:\Eduardo\Git\Orientacão a objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.pdb
 C:\Eduardo\Git\Orientacão a objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.genruntimeconfig.cache
 C:\Eduardo\Git\Orientacão a objeto\Ex_Aula\obj\Debug\net6.0\ref\Ex_Aula.dll
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.dll
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\refint\Ex_Aula.dll
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.pdb
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\bin\Debug\net6.0\Ex_Aula.exe
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\bin\Debug\net6.0\Ex_Aula.deps.json
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\bin\Debug\net6.0\Ex_Aula.runtimeconfig.json
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\bin\Debug\net6.0\Ex_Aula.dll
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\bin\Debug\net6.0\Ex_Aula.pdb
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.csproj.AssemblyReference.cache
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.AssemblyInfoInputs.cache
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.AssemblyInfo.cs
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.csproj.CoreCompileInputs.cache
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\Ex_Aula.genruntimeconfig.cache
+C:\Projetos\AOO\Exercicio-Orienta-o_a_Objeto\Ex_Aula\obj\Debug\net6.0\ref\Ex_Aula.dll

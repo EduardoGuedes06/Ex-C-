@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TT - SMSA\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Eduardo\\Git\\Orientacão a objeto\\Ex_Aula\\Ex_Aula.csproj",
+      "projectUniqueName": "C:\\Projetos\\AOO\\Exercicio-Orienta-o_a_Objeto\\Ex_Aula\\Ex_Aula.csproj",
       "projectName": "Ex_Aula",
-      "projectPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\Ex_Aula\\Ex_Aula.csproj",
-      "packagesPath": "C:\\Users\\TT - SMSA\\.nuget\\packages\\",
-      "outputPath": "C:\\Eduardo\\Git\\Orientacão a objeto\\Ex_Aula\\obj\\",
+      "projectPath": "C:\\Projetos\\AOO\\Exercicio-Orienta-o_a_Objeto\\Ex_Aula\\Ex_Aula.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\AOO\\Exercicio-Orienta-o_a_Objeto\\Ex_Aula\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\TT - SMSA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
